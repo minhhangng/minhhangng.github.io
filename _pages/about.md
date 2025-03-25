@@ -12,7 +12,7 @@ I am third-year Ph.D. student at IRIF, Universite Paris Cite, working with Pierr
 
 Research Interest
 ======
-My current reseach interest is on distributed network computing and dynamic graphs. Specifically, I work on complexity of distributed agreement tasks using tools from combinatorial topology. Other topics on dynamic graphs that I am working on includes forbidden patterns, coloring, and Cannadian Traveller Problem. 
+My current research interest is on distributed network computing and dynamic graphs. Specifically, I work on complexity of distributed agreement tasks using tools from combinatorial topology. Other topics on dynamic graphs that I am working on includes forbidden patterns, coloring, and Cannadian Traveller Problem. 
 
 
 
