@@ -1,13 +1,11 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
+# About me
 ======
 I am third year Phd student at IRIF, Universite Paris Cite, working with Pierre Fraigniaud and Mikael Rabie. Before, I got my Master from research master program in Paris [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and my Bachelor in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn). This is my [CV](minhhangng.github.io/files
 /CV-2.pdf)
