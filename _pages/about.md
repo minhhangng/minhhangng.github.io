@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am third-year Ph.D. student at IRIF, Universite Paris Cite, working with Pierre Fraigniaud and Mikael Rabie. Before, I got my Master from a research master program in Paris [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and my Bachelor in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn). This is my [CV](files/CV-2.pdf).
+I am third-year Ph.D. student at IRIF, Universite Paris Cite, working with Pierre Fraigniaud and Mikael Rabie. Before, I got my Master from a research master program [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) in Paris, and my Bachelor in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn). This is my [CV](files/CV-2.pdf).
 
 
 Research Interest
