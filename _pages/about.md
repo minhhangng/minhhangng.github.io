@@ -1,8 +1,7 @@
 ---
-
-redirect_from: 
-  - /about/
-  - /about.html
+title: Homepage
+layout: default
+nav_order: 1
 ---
 
 # About me
