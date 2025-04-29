@@ -16,10 +16,10 @@ My current research interest is on distributed network computing and dynamic gra
 
 Publications
 ======
-1. Canadian Traveler Problems in temporal graphs, WG2025. [Arvix](https://arxiv.org/pdf/2407.16491)
-2. Agreement Tasks in Fault-Prone Synchronous Networks of Arbitrary Structure, STACS2025. [Arvix](https://arxiv.org/pdf/2410.21538)
-3. A Simple Lower Bound for Set Agreement in Dynamic Networks, SOSA2025. [Arvix](https://arxiv.org/pdf/2501.07036)
-4. Forbidden Patterns in temporal graphs resulting from encounters in a corridor, SSS2023. [Arvix](https://arxiv.org/pdf/2302.07666)
+1. Canadian Traveler Problems in temporal graphs, WG2025. [Arxiv](https://arxiv.org/pdf/2407.16491)
+2. Agreement Tasks in Fault-Prone Synchronous Networks of Arbitrary Structure, STACS2025. [Arxiv](https://arxiv.org/pdf/2410.21538)
+3. A Simple Lower Bound for Set Agreement in Dynamic Networks, SOSA2025. [Arxiv](https://arxiv.org/pdf/2501.07036)
+4. Forbidden Patterns in temporal graphs resulting from encounters in a corridor, SSS2023. [Arxiv](https://arxiv.org/pdf/2302.07666)
 
 
 
