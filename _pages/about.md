@@ -12,7 +12,7 @@ I am a third-year Ph.D. student at IRIF, Universite Paris Cite, working with Pie
 
 Research Interest
 ======
-My current research interest is on distributed network computing and dynamic graphs. Specifically, I work on complexity of distributed agreement tasks using tools from combinatorial topology. I am also working on dynamic graphs including forbidden patterns, coloring, and Cannadian Traveller Problem. 
+My research interest is in the field of distributed computing and networks. My research focuses on dynamic graphs, and agreement tasks in synchronous message-passing models. Agreement tasks, which are fundamental in the domain of distributed computing, are studied in almost all models from the synchronous message-passing model to the asynchronous shared memory model. Specifically, I study consensus and $k$-set agreement problems in the synchronous networks with the presence of crash failures, using tools from combinatorial topology. Another area of my research is dynamic networks (temporal graphs), that are networks changing over time. Specifically, my research is in topics of forbidden patterns and the online routing problem called Canadian Traveler Problem. 
 
 Publications
 ======
