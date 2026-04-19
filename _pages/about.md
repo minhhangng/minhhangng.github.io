@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at IRIF, Universite Paris Cite, working with Pierre Fraigniaud and Mikael Rabie. Before, I got my Master from the Parisian master program of research in computer science [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and my Bachelor in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn). This is my [CV](files/CV-Nguyen.pdf).
+I am a postdoctoral fellow at Tel Aviv University, working with Shay Solomon. I received my Ph.D. from Universite Paris Cite under the supervision of Pierre Fraigniaud and Mikael Rabie. Prior to that, I completed the Master’s Program in Computer Science [MPRI](https://mpri-master.ens.fr/doku.php?id=start), and obtained my Bachelor’s degree in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn). This is my [CV](files/CV-Nguyen.pdf).
 
 
 Research Interest
 ======
-My research interest is in the field of distributed computing and networks. My research focuses on dynamic graphs, and agreement tasks in synchronous message-passing models. Agreement tasks, which are fundamental in the domain of distributed computing, are studied in almost all models from the synchronous message-passing model to the asynchronous shared memory model. Specifically, I study consensus and $k$-set agreement problems in the synchronous networks with the presence of crash failures, using tools from combinatorial topology. Another area of my research is dynamic networks (temporal graphs), that are networks changing over time. Specifically, my research is in topics of forbidden patterns and the online routing problem called Canadian Traveler Problem. 
+I am interested in distributed network computing, topology methods in distributed computing, temporal graphs, and dynamic graph algorithms.
 
 Publications
 ======
